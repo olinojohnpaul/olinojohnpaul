@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olinojohnpaul or John Paul Olino
-- 👀 I’m interested in video games and movies
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning .net, c# and typescript
 - 💞️ I’m looking to collaborate on a game project using react
 - 📫 How to reach me: email at olinojohnpaul@gmail.com
